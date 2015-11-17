@@ -1,7 +1,11 @@
 
-# slackin
+# Los Altos Hacks slackin
 
 This will be hosted at losaltoshacks-slackin.herokuapp.com, for the Los Altos Hacks Slack at losaltoshacks.slack.com.  
+
+## What is slackin? 
+
+--below is forked material
 
 A little server that enables public access
 to a Slack server. Like Freenode, but on Slack.
